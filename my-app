@@ -1,6 +1,6 @@
 node{
    stage('SCM Checkout'){
-     git 'https://github.com/Jaggu1992/jenkinsfile'
+     git 'https://github.com/Jaggu1992/jenkinsfile/new'
    }
    stage('Compile-Package'){
     
